@@ -2,4 +2,5 @@
 - Nuxt
 - NuxtUI
 - Pinia
-- Prisma# nuxt-starter
+- Prisma
+
