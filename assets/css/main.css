@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+@plugin "@tailwindcss/typography";
+
+body {
+  font-family: "Rubik", sans-serif;
+}
